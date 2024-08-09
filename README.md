@@ -3,7 +3,6 @@
 
 **Art Space app** 
 
-Images use in app is downloaded from unsplash.com.
 
 **The app looks on a Small screen**
 
@@ -13,3 +12,8 @@ Images use in app is downloaded from unsplash.com.
 **The app looks on a large screen**
 
 ![tablet1](https://github.com/user-attachments/assets/5651e82a-d9a5-46a2-bafa-10f405646a94)
+
+
+
+
+Images used in this app are downloaded from unsplash.com
