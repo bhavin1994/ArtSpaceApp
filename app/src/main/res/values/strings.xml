@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ArtSpaceApp</string>
+
+    <string name="art1_title">Statue of Unity, Gujarat, India</string>
+    <string name="artist1">Krishnkant Patidar</string>
+    <string name="art1_year">2021</string>
+
+    <string name="art2_title">Key Gompa (Key Monastery), Key, Himachal Pradesh, India</string>
+    <string name="artist2">Naman Sood</string>
+    <string name="art2_year">2022</string>
+
+    <string name="art3_title">India Gate, New Delhi, Delhi, India</string>
+    <string name="artist3">Shubham Sharan</string>
+    <string name="art3_year">2023</string>
+
+    <string name="art4_title">Hawa Mahal, pink palace, Jaipur</string>
+    <string name="artist4">Annie Spratt</string>
+    <string name="art4_year">2018</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+</resources>
